@@ -2,4 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 I started a repository and a hidden directory .git appear. I need it so i can start add commit.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
 
+staging area is the place that you want to monitor the changes. It contains the files to be monitor.
