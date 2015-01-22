@@ -5,3 +5,15 @@ I started a repository and a hidden directory .git appear. I need it so i can st
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 staging area is the place that you want to monitor the changes. It contains the files to be monitor.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+only add one file that change to the staging area
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when we need two or more different version.
+
+How do the diagrams help you visualize the branch structure?
+
+very clear
