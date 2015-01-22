@@ -17,3 +17,8 @@ when we need two or more different version.
 How do the diagrams help you visualize the branch structure?
 
 very clear
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+that will become one branch. it will add code that was not exist and delete that one that was deleted.
+diagram make it easy to understand
