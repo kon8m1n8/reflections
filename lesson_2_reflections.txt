@@ -22,3 +22,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 that will become one branch. it will add code that was not exist and delete that one that was deleted.
 diagram make it easy to understand
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros: easy to do especially when there's no conflicts
+cons: some conflicts still need to fix manually
