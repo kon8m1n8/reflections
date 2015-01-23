@@ -3,3 +3,8 @@ if it involved other programmers
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 because i want to what changes have been made to remote before pull them
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks: copy from another repositories so we could only change the copy without affecting the original.
+clones: copy from remote repositories to local computer so local and remote could share the same commit.
+branches: different version from the original or master. we use this to try a new feature, etc.
